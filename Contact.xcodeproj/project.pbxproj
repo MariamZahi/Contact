@@ -14,6 +14,7 @@
 		47D260332A871F2B00D4E4AA /* ContactTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D260322A871F2B00D4E4AA /* ContactTests.swift */; };
 		47D2603D2A871F2B00D4E4AA /* ContactUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D2603C2A871F2B00D4E4AA /* ContactUITests.swift */; };
 		47D2603F2A871F2B00D4E4AA /* ContactUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D2603E2A871F2B00D4E4AA /* ContactUITestsLaunchTests.swift */; };
+		47D2604C2A871FA600D4E4AA /* Coontact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D2604B2A871FA600D4E4AA /* Coontact.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		47D260382A871F2B00D4E4AA /* ContactUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContactUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		47D2603C2A871F2B00D4E4AA /* ContactUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactUITests.swift; sourceTree = "<group>"; };
 		47D2603E2A871F2B00D4E4AA /* ContactUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		47D2604B2A871FA600D4E4AA /* Coontact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coontact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				47D260242A871F2B00D4E4AA /* Assets.xcassets */,
 				47D260262A871F2B00D4E4AA /* Contact.entitlements */,
 				47D260272A871F2B00D4E4AA /* Preview Content */,
+				47D2604B2A871FA600D4E4AA /* Coontact.swift */,
 			);
 			path = Contact;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				47D260232A871F2900D4E4AA /* ContentView.swift in Sources */,
+				47D2604C2A871FA600D4E4AA /* Coontact.swift in Sources */,
 				47D260212A871F2900D4E4AA /* ContactApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
